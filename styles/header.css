@@ -1,0 +1,43 @@
+.banner-section{
+    text-align: center;
+}
+
+.banner-title{
+    font-size: 50px;
+    font-weight:bolder;
+    color: whitesmoke;
+    padding-left: 170px;
+    padding-right: 160px;
+    padding-top: 100px;
+    padding-bottom: 0;
+}
+
+.banner-description{
+    color: antiquewhite;
+    padding-top: 0;
+    padding: 0 150px;
+    margin: 0;
+}
+
+
+.btn{
+    color: azure;
+    background-color: orangered;
+    border: none;
+    border-radius: 2px;
+    font-size: 24px;
+    height:40px;
+    /* padding-bottom: 110px; */
+    margin-bottom: 100px;
+    margin-top: 40px;
+}
+.btn:hover{
+    background-color: green;
+}
+
+
+.banner{
+    background-image: url(../images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
