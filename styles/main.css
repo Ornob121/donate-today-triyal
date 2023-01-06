@@ -14,11 +14,9 @@
 }
 
 .btm button{
-    /* padding: 0 30px; */
     margin: 0  10px;
     width: 100px;
     height: 70px;
-    /* background-color: rgb(216, 57, 57); */
     margin: 2px solid;
 
     
@@ -87,18 +85,16 @@
 }
 
 
-.btm{
+.btm2{
     color: azure;
     background-color: orangered;
     border: none;
     border-radius: 2px;
     font-size: 24px;
     height:40px;
-    /* padding-bottom: 110px; */
     margin-bottom: 100px;
-    /* margin-top: 40px; */
 }
-.btm:hover{
+.btm2:hover{
     background-color: green;
 }
 
