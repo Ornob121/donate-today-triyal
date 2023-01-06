@@ -61,3 +61,80 @@
     padding: 10px 30px;
     background-color: lightyellow;
 }
+
+.lala{
+    padding: 0 300px;
+    padding-top: 30px;
+}
+
+
+/* yy styles */
+
+.yy1{
+    display: flex;
+    gap: 40px;
+
+}
+
+
+.yy1{
+    padding-left: 80px;
+}
+
+.yy3{
+    padding-right: 80px;
+    padding-top: 30px;
+}
+
+
+.btm{
+    color: azure;
+    background-color: orangered;
+    border: none;
+    border-radius: 2px;
+    font-size: 24px;
+    height:40px;
+    /* padding-bottom: 110px; */
+    margin-bottom: 100px;
+    /* margin-top: 40px; */
+}
+.btm:hover{
+    background-color: green;
+}
+
+.tt1{
+    display: flex;
+    padding: 0 100px;
+    gap: 80px;
+}
+
+.tt2{
+    padding-top: 30px;
+}
+
+.hh1{
+    font-size: small;
+}
+
+/* last section */
+
+.last1{
+    text-align: center;
+    padding: 0 180px;
+}
+
+.last{
+    margin:100px 150px ;
+    background-color: lightyellow;
+    text-align: center;
+    padding-top:80px ;
+}
+
+#email{
+    color:white;
+    background-color: lightgray;
+    height: 30px;
+    padding-top: 7px;
+    width: 30%;
+}
+
